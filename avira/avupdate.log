@@ -1,0 +1,9 @@
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Avupdate Version: 2.5.3.236
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Operating System: DARWIN X86_64 19.6.0 
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Installation Directory: .
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Backup Directory: ./avupdate_backup
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Temp Directory: ./tmp/avupdate_tmp_bNLsCZ
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Cache Modules Directory: ./idx
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Proxy settings: Direct connection
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Downloading https://oem.avira-update.com/update/idx/master.idx to ./tmp/avupdate_tmp_bNLsCZ/idx/master.idx
+23/10/2020 16:00:20 blerims-mbp avupdate.bin[29236]: UPD: INFO: Nothing to update

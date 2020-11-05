@@ -1,0 +1,5909 @@
+<MODULE NAME="VDF">
+	<DESTINATION value="%INSTALL_DIR%\;OS=ALL"/>
+	<SOURCE value="./"/>
+	<VERSION value="0.0.0.1"/>
+	<VdfDate value="20201023_0000"/>
+
+	<FILE>
+		<NAME value="x_vdf/aevdf.dat"/>
+		<FILEMD5 value="fb95d32c45015ef1113d1d99e6ce251f"/>
+		<PEFILEMD5 value="fb95d32c45015ef1113d1d99e6ce251f"/>
+		<FILESIZE value="5671"/>
+		<ZIPMD5 value="bd0bdaaad7586e3767656b6a01cc2f9b"/>
+		<ZIPSIZE value="1130"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.54
+		</VdfVersion>
+		<VERSION value="8.18.14.54"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00000.vdf"/>
+		<FILEMD5 value="1486ff8794fd6d4e99924cc4aef98f5c"/>
+		<PEFILEMD5 value="1486ff8794fd6d4e99924cc4aef98f5c"/>
+		<FILESIZE value="26622824"/>
+		<ZIPMD5 value="ae126e240b36b01d69c600044eabbb0a"/>
+		<ZIPSIZE value="26631008"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			7.18.0.98
+		</VdfVersion>
+		<VdfDate>
+			20200403_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="7.18.0.98"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00001.vdf"/>
+		<FILEMD5 value="5dfb5f78b78783ef393cc5a76ee5c99c"/>
+		<PEFILEMD5 value="5dfb5f78b78783ef393cc5a76ee5c99c"/>
+		<FILESIZE value="5592936"/>
+		<ZIPMD5 value="f4ca0246cc939ac7f07538a94f888049"/>
+		<ZIPSIZE value="5594710"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.150
+		</VdfVersion>
+		<VdfDate>
+			20200428_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			7.18.0.98
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.150"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00002.vdf"/>
+		<FILEMD5 value="9c21aaaf7daab14146443a1a7efe60d4"/>
+		<PEFILEMD5 value="9c21aaaf7daab14146443a1a7efe60d4"/>
+		<FILESIZE value="10489192"/>
+		<ZIPMD5 value="6a8372723b879568d067241b06c89cd5"/>
+		<ZIPSIZE value="10492466"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.154
+		</VdfVersion>
+		<VdfDate>
+			20200428_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.150
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.154"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00003.vdf"/>
+		<FILEMD5 value="752035c1165eb4b8c97349426df79d3d"/>
+		<PEFILEMD5 value="752035c1165eb4b8c97349426df79d3d"/>
+		<FILESIZE value="3298664"/>
+		<ZIPMD5 value="cda15efb0f6034218a1525f7c21f3b92"/>
+		<ZIPSIZE value="3299738"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.154
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00004.vdf"/>
+		<FILEMD5 value="ea5576d4c0c8322c5da7ff85c27ab930"/>
+		<PEFILEMD5 value="ea5576d4c0c8322c5da7ff85c27ab930"/>
+		<FILESIZE value="4118888"/>
+		<ZIPMD5 value="74eb21666d731fc663fad2be898565e8"/>
+		<ZIPSIZE value="4120141"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.184
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.0.184"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00005.vdf"/>
+		<FILEMD5 value="7f739428d6fb60f6a03e67652fd632b3"/>
+		<PEFILEMD5 value="7f739428d6fb60f6a03e67652fd632b3"/>
+		<FILESIZE value="6638440"/>
+		<ZIPMD5 value="e520f80e56e6c4626be20ab112f403bc"/>
+		<ZIPSIZE value="6640543"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.204
+		</VdfVersion>
+		<VdfDate>
+			20200528_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.184
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.0.204"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00006.vdf"/>
+		<FILEMD5 value="e999225cef6f0fe55d730168b5e859a0"/>
+		<PEFILEMD5 value="e999225cef6f0fe55d730168b5e859a0"/>
+		<FILESIZE value="416616"/>
+		<ZIPMD5 value="1834e6973f190538ce3978395de45d07"/>
+		<ZIPSIZE value="416822"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.1.78
+		</VdfVersion>
+		<VdfDate>
+			20200602_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.204
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.1.78"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00007.vdf"/>
+		<FILEMD5 value="5956afd07e7d936197d8d15129bb46f6"/>
+		<PEFILEMD5 value="5956afd07e7d936197d8d15129bb46f6"/>
+		<FILESIZE value="478568"/>
+		<ZIPMD5 value="f8439c602e70af220bd2b430e45dde24"/>
+		<ZIPSIZE value="478770"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.1.192
+		</VdfVersion>
+		<VdfDate>
+			20200607_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.1.78
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.1.192"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00008.vdf"/>
+		<FILEMD5 value="e18d8273c647d5788052a082f5460ad3"/>
+		<PEFILEMD5 value="e18d8273c647d5788052a082f5460ad3"/>
+		<FILESIZE value="466792"/>
+		<ZIPMD5 value="354e35ea7723fde685b5fcc6fbdd237a"/>
+		<ZIPSIZE value="467008"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.2.52
+		</VdfVersion>
+		<VdfDate>
+			20200612_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.1.192
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.2.52"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00009.vdf"/>
+		<FILEMD5 value="2356c2eea636461691d2f20142b1f597"/>
+		<PEFILEMD5 value="2356c2eea636461691d2f20142b1f597"/>
+		<FILESIZE value="478056"/>
+		<ZIPMD5 value="bf1eb0621922d085f4c14e9fc42a339a"/>
+		<ZIPSIZE value="478226"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.2.166
+		</VdfVersion>
+		<VdfDate>
+			20200617_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.2.52
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.2.166"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00010.vdf"/>
+		<FILEMD5 value="7f0da5202cd7f6ecac0fde9c845d7e3b"/>
+		<PEFILEMD5 value="7f0da5202cd7f6ecac0fde9c845d7e3b"/>
+		<FILESIZE value="382312"/>
+		<ZIPMD5 value="f93ecab46a91ac376c50f48771db00b9"/>
+		<ZIPSIZE value="382493"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.3.24
+		</VdfVersion>
+		<VdfDate>
+			20200622_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.2.166
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.3.24"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00011.vdf"/>
+		<FILEMD5 value="16cb960955b7ad4a5391ea692212eb9e"/>
+		<PEFILEMD5 value="16cb960955b7ad4a5391ea692212eb9e"/>
+		<FILESIZE value="501608"/>
+		<ZIPMD5 value="5e0c891423fabcbafb4e765cb2c5ddc7"/>
+		<ZIPSIZE value="501832"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.3.154
+		</VdfVersion>
+		<VdfDate>
+			20200627_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.3.24
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.3.154"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00012.vdf"/>
+		<FILEMD5 value="0de9ce63106851fbf4c639ed5abb4c41"/>
+		<PEFILEMD5 value="0de9ce63106851fbf4c639ed5abb4c41"/>
+		<FILESIZE value="770408"/>
+		<ZIPMD5 value="48a30db422870a075d4ac8424b953145"/>
+		<ZIPSIZE value="770698"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.4.10
+		</VdfVersion>
+		<VdfDate>
+			20200702_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.3.154
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.4.10"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00013.vdf"/>
+		<FILEMD5 value="cc058abad3096ced34bf2d22cd084a19"/>
+		<PEFILEMD5 value="cc058abad3096ced34bf2d22cd084a19"/>
+		<FILESIZE value="283496"/>
+		<ZIPMD5 value="53a04ccc465919065bc08cdb77c3b7fa"/>
+		<ZIPSIZE value="283645"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.4.124
+		</VdfVersion>
+		<VdfDate>
+			20200706_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.4.10
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.4.124"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00014.vdf"/>
+		<FILEMD5 value="aabcceb7a82c3df81b025134b9919b66"/>
+		<PEFILEMD5 value="aabcceb7a82c3df81b025134b9919b66"/>
+		<FILESIZE value="462696"/>
+		<ZIPMD5 value="5cf79dcee19d9446350cabb627cd6414"/>
+		<ZIPSIZE value="462857"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.4.238
+		</VdfVersion>
+		<VdfDate>
+			20200711_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.4.124
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.4.238"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00015.vdf"/>
+		<FILEMD5 value="a70fb833420395d4c72c76dbca4ad74f"/>
+		<PEFILEMD5 value="a70fb833420395d4c72c76dbca4ad74f"/>
+		<FILESIZE value="224616"/>
+		<ZIPMD5 value="1ebe170a69db04c5912aa1a1646b4436"/>
+		<ZIPSIZE value="224743"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.5.44
+		</VdfVersion>
+		<VdfDate>
+			20200714_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.4.238
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.5.44"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00016.vdf"/>
+		<FILEMD5 value="4075af0b24379a7c85d3a75fb19de594"/>
+		<PEFILEMD5 value="4075af0b24379a7c85d3a75fb19de594"/>
+		<FILESIZE value="781160"/>
+		<ZIPMD5 value="957e644c19d7cca98cca1cd12ce1e586"/>
+		<ZIPSIZE value="781425"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.5.230
+		</VdfVersion>
+		<VdfDate>
+			20200722_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.5.44
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.5.230"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00017.vdf"/>
+		<FILEMD5 value="6855b7b8ae997f2d81bb35a8f6a0bee8"/>
+		<PEFILEMD5 value="6855b7b8ae997f2d81bb35a8f6a0bee8"/>
+		<FILESIZE value="783208"/>
+		<ZIPMD5 value="59fc1aa9a364fa15f035effd22a882c6"/>
+		<ZIPSIZE value="783471"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.6.110
+		</VdfVersion>
+		<VdfDate>
+			20200727_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.5.230
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.6.110"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00018.vdf"/>
+		<FILEMD5 value="64961fc73785f32f60bd0d350cb2acde"/>
+		<PEFILEMD5 value="64961fc73785f32f60bd0d350cb2acde"/>
+		<FILESIZE value="1197416"/>
+		<ZIPMD5 value="07cfb34f7b5066fba3c293a70dda246f"/>
+		<ZIPSIZE value="1197827"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.6.212
+		</VdfVersion>
+		<VdfDate>
+			20200801_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.6.110
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.6.212"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00019.vdf"/>
+		<FILEMD5 value="c068da936a014b33c27137bbbbaca169"/>
+		<PEFILEMD5 value="c068da936a014b33c27137bbbbaca169"/>
+		<FILESIZE value="1189224"/>
+		<ZIPMD5 value="13968a4e33e9b5e695edde1a8697fb29"/>
+		<ZIPSIZE value="1189667"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.7.104
+		</VdfVersion>
+		<VdfDate>
+			20200807_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.6.212
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.7.104"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00020.vdf"/>
+		<FILEMD5 value="dab094ff5c121dc080c5a47e691c80a1"/>
+		<PEFILEMD5 value="dab094ff5c121dc080c5a47e691c80a1"/>
+		<FILESIZE value="1059176"/>
+		<ZIPMD5 value="b5ea300bb5f54b8c94375733a9023026"/>
+		<ZIPSIZE value="1059532"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.8.22
+		</VdfVersion>
+		<VdfDate>
+			20200815_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.7.104
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.8.22"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00021.vdf"/>
+		<FILEMD5 value="991f86e071e37952cad731cbf5bfb5f6"/>
+		<PEFILEMD5 value="991f86e071e37952cad731cbf5bfb5f6"/>
+		<FILESIZE value="1195880"/>
+		<ZIPMD5 value="75b8099207002ed5f6eb273fbcabe176"/>
+		<ZIPSIZE value="1196262"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.8.184
+		</VdfVersion>
+		<VdfDate>
+			20200822_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.8.22
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.8.184"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00022.vdf"/>
+		<FILEMD5 value="b030d27b610bd8992faee5f91e772399"/>
+		<PEFILEMD5 value="b030d27b610bd8992faee5f91e772399"/>
+		<FILESIZE value="1190248"/>
+		<ZIPMD5 value="1e38628e23b64bd81f23ad19519cd3eb"/>
+		<ZIPSIZE value="1190638"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.9.82
+		</VdfVersion>
+		<VdfDate>
+			20200829_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.8.184
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.9.82"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00023.vdf"/>
+		<FILEMD5 value="da4600feffa3a8ae9c09d5dfe27a5cac"/>
+		<PEFILEMD5 value="da4600feffa3a8ae9c09d5dfe27a5cac"/>
+		<FILESIZE value="1213288"/>
+		<ZIPMD5 value="fef2215b3a2a8b02ff32c3a5304bf454"/>
+		<ZIPSIZE value="1213709"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.9.220
+		</VdfVersion>
+		<VdfDate>
+			20200905_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.9.82
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.9.220"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00024.vdf"/>
+		<FILEMD5 value="2a3952f5156ad353705f1c7f92c68093"/>
+		<PEFILEMD5 value="2a3952f5156ad353705f1c7f92c68093"/>
+		<FILESIZE value="1269608"/>
+		<ZIPMD5 value="a6393efbda01e7082406dbd2241d77fd"/>
+		<ZIPSIZE value="1270062"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.10.102
+		</VdfVersion>
+		<VdfDate>
+			20200910_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.9.220
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.10.102"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00025.vdf"/>
+		<FILEMD5 value="271174dc04c32d2bf01faaa97ac02f92"/>
+		<PEFILEMD5 value="271174dc04c32d2bf01faaa97ac02f92"/>
+		<FILESIZE value="1232232"/>
+		<ZIPMD5 value="b92014236d21c95060baad6768d76e76"/>
+		<ZIPSIZE value="1232684"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.10.240
+		</VdfVersion>
+		<VdfDate>
+			20200917_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.10.102
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.10.240"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00026.vdf"/>
+		<FILEMD5 value="23919aadc91b2b91d9d3afc737825096"/>
+		<PEFILEMD5 value="23919aadc91b2b91d9d3afc737825096"/>
+		<FILESIZE value="1225576"/>
+		<ZIPMD5 value="a7c36461d805b8e65dae3b9ea2d554c7"/>
+		<ZIPSIZE value="1226000"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.11.130
+		</VdfVersion>
+		<VdfDate>
+			20200924_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.10.240
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.11.130"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00027.vdf"/>
+		<FILEMD5 value="65e22263fccbbf6ee6057e098d8eca3c"/>
+		<PEFILEMD5 value="65e22263fccbbf6ee6057e098d8eca3c"/>
+		<FILESIZE value="1005416"/>
+		<ZIPMD5 value="211ff4b2c03b9b26799f55d7842a48a6"/>
+		<ZIPSIZE value="1005739"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.12.56
+		</VdfVersion>
+		<VdfDate>
+			20201001_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.11.130
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.12.56"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00028.vdf"/>
+		<FILEMD5 value="283f5301558b0088121964fe84d8ee32"/>
+		<PEFILEMD5 value="283f5301558b0088121964fe84d8ee32"/>
+		<FILESIZE value="928104"/>
+		<ZIPMD5 value="b3db01dc475e0081733534d7732ca001"/>
+		<ZIPSIZE value="928450"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.12.230
+		</VdfVersion>
+		<VdfDate>
+			20201008_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.12.56
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.12.230"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00029.vdf"/>
+		<FILEMD5 value="1aaccdc8cd192eb8c668589e76ac8a29"/>
+		<PEFILEMD5 value="1aaccdc8cd192eb8c668589e76ac8a29"/>
+		<FILESIZE value="1101160"/>
+		<ZIPMD5 value="f57d9b50e8723b00f57ad70c3bcd63ef"/>
+		<ZIPSIZE value="1101568"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.12.230
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00030.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e582ddbd1bdbd03785942d5ea87b9197"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00031.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="011621aa5fa1b70ccaacf42292b46a92"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00032.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9146edb95c48b20b01fbf7a849774d36"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00033.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="5463bc4a2da80eadd00d12e9b5e42bbc"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00034.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="2facc22d1724cb4c09ffcd53d888123b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00035.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="3d38c454d6823cd225e2749769113f87"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00036.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9ecb394ea4bf2c4100bde0f36cc79357"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00037.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="4c0ea0ed01ed5ee7122efe0de0550dda"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00038.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="030d07fd7d1009c47e1bb914f3c47b4f"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00039.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="aab4b1f5a3b059cf8b6cf7dadfc29e68"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00040.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="026e9a70dea3ab9296aad4538aa5ba57"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00041.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ff576a77c75eb1c6c4a07ff19669ba71"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00042.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="145ae40c1aec75cbcc4f1eb4ba53517e"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00043.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0bdc7a5b349a9bea50ca6f05498fd77a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00044.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="d56ce09729612c6ad49173bd3efbdf1a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00045.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0e25358bf7322f926d5975764d55f1e0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00046.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="13e801cdff4327411ab615b8c5fb1ded"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00047.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="d1e5565ebeaa4ed2a582f7f76dfb45b1"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00048.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9648ce2289858f1fb1adf7ff92ea1106"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00049.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="767ec447944f2f4c382e883779464c48"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00050.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="8d4a10de73e312fa5619183e58e03c88"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00051.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="4267de87143a2d23292790b91512ea2a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00052.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="3dc83c0bc11b705b8052861b6f48c6a4"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00053.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b76adca945e75e764572886d3a6c9286"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00054.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="26b4fede4f415e799be2d9fbd5bea77e"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00055.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a014d3ff0003a6271633754f534bc3d4"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00056.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c95e1db511bf97fd57e7d6a7915fef5e"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00057.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="59e96962c3a4a63abf2eba089070d0b6"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00058.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="23df0bbdd34016074cb966e7e58616b2"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00059.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="51bac1a9d1b2921c575ed2983769f573"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00060.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="63430bb13554efd6e1afad7df64fe341"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00061.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="35e2eab2c1d657d6fe6143326dee249d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00062.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="d93e6ff2406086bcc2af8cc64fd903de"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00063.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9d60c03c475f2349ae819bf23092d6bb"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00064.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a05d50adc2dc1c468cb6625b7283013c"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00065.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="f97762f656add7f3b28347e8b196744b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00066.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="38e59887a36dd40db5551b245833cfe0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00067.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b10b3f14c4b7c9b40d9853e8eb674a75"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00068.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="db8b6927b9773602ce01c72d6a98dc6e"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00069.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0b99dc70aea2b8d00780ca9e510f4986"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00070.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="f35e4129d6d85ecba9467c6464ec9a5d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00071.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="6078522669d155d8fcf124a081a56079"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00072.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="62312d03d7fc3de977f469c7e0918dd4"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00073.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="8bfef710e51c3a25e79e366918906c68"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00074.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b9815a96bf9b0d48a1efa9ead4ddc7f0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00075.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7f6bfd35847ad7aec8f03c2730f4f685"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00076.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="79930c92ba2d1b0d43b867b22742b508"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00077.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="4a25087691211ae91ba27f31fe24724b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00078.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="860e1ee6ec637825fe93cfa1ea148030"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00079.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="f5d7d5a677be80442cfcb6bd26c90960"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00080.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="be5ba97e9850cf5aee288e55dd71f303"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00081.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="89aa20b98509033714dce5cdff6458a7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00082.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7d6cfdae1c153610a6bc63c2603727cb"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00083.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ba0ee415302530029c0d43f42c02468d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00084.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ae6806c95692fd3f711bfd571f4f12b8"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00085.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e0c3184257c5b1ef2c7cb04b58b8f369"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00086.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a5d9b7f13109715f5a099c81c4698946"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00087.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="73fe78284999780ca5b62229a599d6d0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00088.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b86f0fb43fbb6a491660608b5be65021"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00089.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="77fe3077c3ca1795ecff488fb9f9b02c"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00090.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="4c332b8333fb1c53943425f7e3bd7a7d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00091.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="718b67b82ff0ee38081d8a9410ddb9bc"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00092.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="975141fd2124be6e863423c76ae32e4b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00093.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="cf3c5059ffb38919a07fdcbfe645dd45"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00094.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="843bff5e68090ec09f78689780d963f7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00095.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e2b932134c6fc3824267c36dbba17651"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00096.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="bb640cfb47b2d42199402e6a7b6d0ad2"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00097.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0a47ea08126697499918dcfafe854c00"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00098.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9bce07d74667511ad0e5797009c269cd"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00099.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="62f1244bb0c7e2ad94ab3c91fb8f303d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00100.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a08147bdcfc1a397923e2d11c75a2ab3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00101.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e27c5883468f8f2741822d39ccd1669c"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00102.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a09bc79135baa9f6398d01f3f8054018"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00103.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="f4c08aa963396e83b45608fe8fbd4224"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00104.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="d29da7d7d80d7e6d836c61ef54f641c0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00105.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="fa1a6addd4c077588c0e3d07e48c7920"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00106.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9c29a776e964adb03c7c0091a97520ba"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00107.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="1aa2838a8631406188d4dce18b3b4e93"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00108.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ed29153d2d596f2e16081c38081eed3c"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00109.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a7f284dd799fbc420b7566ff87f09c69"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00110.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="cdcfa0f044cdd271c00262b2c926853f"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00111.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="89d2a97fd10b99a1c02413acf889750b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00112.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="15a1eb5a08053de8ce7825ed7b576af6"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00113.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="277a36efeb74d94958c18298848ef9c6"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00114.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="d576061d1f692c9d84de93c811681131"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00115.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="3496d75c64a5bedc2d77e3a60703274a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00116.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="dde605b1314fadda29ceb067bfde7cd0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00117.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a70dd52c9aaa8524f6039daddeeb73d3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00118.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c5fe86ea3cedf63f89b7e79a10538eec"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00119.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="f9f44df7bbf1821ff5e61021641863ed"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00120.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="473296dbe866d1fc9d1f1cb6d67bdce7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00121.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="015ae89562c4015961e99e010a28fcdf"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00122.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="fb64d1f78530d395685a6f9749810b23"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00123.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="537abc675218ef8a6c9d596a1393c2af"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00124.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="bd59f3bf68e5d4f3f7234ba33d213004"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00125.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="fa0a6252a5613e2815005f5d024a3ff9"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00126.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="12ce8916a7a026d2e9d3a321d25bf8cf"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00127.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="fbf90cb6852a3a43d6fb48b9bdaea8e4"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00128.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="305b41834abd67d828f1546db416b7d2"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00129.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e78d5583173bb1d43a5516c73895c45f"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00130.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e430f9a11cec24381cd6f2b49a5654c3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00131.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="660c3a7beb091cf0dd09d0a641ce764b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00132.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="87e4e7717fe9e61c2cb20ec2e7b54dc0"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00133.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7eb3923a2df3dd36870802303cea53ff"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00134.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="5d119df904c2719bb56b3b2c71d008c3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00135.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="6a59bd23380ec51ab09c8eb8dcfd8cd7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00136.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e44b003b91c3e444b06c534a06f1dae2"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00137.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b574781dc12706366dae484a9f40737b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00138.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7fa940a7e8d1b7c26e9f75c52ce88e70"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00139.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="2cbb6563c4905852c3184421740da569"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00140.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c14c6120a1ec544efd451bad88164847"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00141.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c6bbdd5c6fbb1223b98af4ac549e9dd7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00142.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="4ec19d99362d4dd93315576ea9b5bb9a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00143.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a0a4f6debd0e5225ccc502fd80e306c9"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00144.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ceb363904811018b2665c20fb3025be3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00145.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="75d65edf9eba2e89a9dce5c11b20c9f7"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00146.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="93ed0e72ba833a25cbccaaf5f7727345"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00147.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="039bfe753584a1c56be9efc69edfa5cc"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00148.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="83c9496e841f0511930f35108b4f9020"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00149.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="3000fd73f9c0a4162f1e6819c41aa2bb"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00150.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="776e9db34ac5d25949364b52de10e04a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00151.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a3a9383de7b9d9ffd00d6e3a96275a44"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00152.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7ebf238508cf3ee396a0907db8df3a3a"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00153.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="552a053e6130a6c4922d5d99becb7455"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00154.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="bc811a7a92e93ac1f3f867721ba3ec1b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00155.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ac1e89033d5ce1e679f0bba5cf1f93bd"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00156.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="94d5bcc5c2873ae691dcabdd73369f5b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00157.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="dc55e3657f0b246f1cd3256fc5a9e2c5"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00158.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0d56a86fdd0c09d5d1e126a37102a3f1"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00159.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e9cecee505f478413de32390bc26a227"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00160.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="63097922ee747b8358aa86ed4254a35d"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00161.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9933df530914a8363231783f2d1fd146"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00162.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="75b30ebc2bedd477b62cc05267a010c4"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00163.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c1068da825ba9f48cc39de238e0399d3"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00164.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="bac8b26fd4fe547c58ecc19d591a66e6"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00165.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="7a4c4e9bb89f1fb39f9a29ee51b2a773"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00166.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="0b020e1078fca5d3063750dca967097b"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00167.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="3031640edc8a0021558205454bd87aac"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00168.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9218382134e24d7ae391da5e7736c67e"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00169.vdf"/>
+		<FILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<PEFILEMD5 value="1865250d2bcdf5ce82cb4bf275c2a56f"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="ebb319c8b85ca59a319060bf30aae493"/>
+		<ZIPSIZE value="2396"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.0.182
+		</VdfVersion>
+		<VdfDate>
+			20200527_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.0.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			8.3.0.0
+		</ReqMinEngine>
+		<VERSION value="8.18.0.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00170.vdf"/>
+		<FILEMD5 value="673af559dae9dbf26205a8209409005b"/>
+		<PEFILEMD5 value="673af559dae9dbf26205a8209409005b"/>
+		<FILESIZE value="5480"/>
+		<ZIPMD5 value="1075bb1677b7cd33b8f6c6f6236e7401"/>
+		<ZIPSIZE value="5475"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.154
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.154"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00171.vdf"/>
+		<FILEMD5 value="f998f0cae75d8d1aa01db088511010e2"/>
+		<PEFILEMD5 value="f998f0cae75d8d1aa01db088511010e2"/>
+		<FILESIZE value="31592"/>
+		<ZIPMD5 value="0ea338d463cdcc5ddec455f638ac74c2"/>
+		<ZIPSIZE value="31595"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.156
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.154
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.156"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00172.vdf"/>
+		<FILEMD5 value="27c5a37125c180d783adc41aa163bd79"/>
+		<PEFILEMD5 value="27c5a37125c180d783adc41aa163bd79"/>
+		<FILESIZE value="29544"/>
+		<ZIPMD5 value="06e7be26727170c1541dd672a433221a"/>
+		<ZIPSIZE value="29554"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.158
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.156
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.158"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00173.vdf"/>
+		<FILEMD5 value="9d0c2d481cb00877096a39fa877afa6e"/>
+		<PEFILEMD5 value="9d0c2d481cb00877096a39fa877afa6e"/>
+		<FILESIZE value="17256"/>
+		<ZIPMD5 value="e06bc3ee7636dcd36b96d021aecf62b1"/>
+		<ZIPSIZE value="17238"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.160
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.158
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.160"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00174.vdf"/>
+		<FILEMD5 value="052b0e95d682677d2f9f863fe163a5d7"/>
+		<PEFILEMD5 value="052b0e95d682677d2f9f863fe163a5d7"/>
+		<FILESIZE value="15208"/>
+		<ZIPMD5 value="91add93fffb1cce22c2f09da3f595425"/>
+		<ZIPSIZE value="15184"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.162
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.160
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.162"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00175.vdf"/>
+		<FILEMD5 value="79aae4f49c7f49243a85835bfbb5c401"/>
+		<PEFILEMD5 value="79aae4f49c7f49243a85835bfbb5c401"/>
+		<FILESIZE value="9064"/>
+		<ZIPMD5 value="9462bc7a95db48e3dc62a885c7f30f13"/>
+		<ZIPSIZE value="9021"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.164
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.162
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.164"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00176.vdf"/>
+		<FILEMD5 value="7131f4ed40cf454bf898ef41eb1a2fd3"/>
+		<PEFILEMD5 value="7131f4ed40cf454bf898ef41eb1a2fd3"/>
+		<FILESIZE value="8040"/>
+		<ZIPMD5 value="f23b11616818bfed3fcdbc40c7c9ad72"/>
+		<ZIPSIZE value="8009"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.166
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.164
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.166"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00177.vdf"/>
+		<FILEMD5 value="e55756dbc7513e73d6ead9e0c847d39c"/>
+		<PEFILEMD5 value="e55756dbc7513e73d6ead9e0c847d39c"/>
+		<FILESIZE value="24936"/>
+		<ZIPMD5 value="0906823ec531b366c574303972ddea87"/>
+		<ZIPSIZE value="25015"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.168
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.166
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.168"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00178.vdf"/>
+		<FILEMD5 value="83c75fc16346ceb321312c662f6f72b0"/>
+		<PEFILEMD5 value="83c75fc16346ceb321312c662f6f72b0"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="8dcd31f00bb0974635487026531a99c7"/>
+		<ZIPSIZE value="3972"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.170
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.168
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.170"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00179.vdf"/>
+		<FILEMD5 value="c441b951553dddd23ab2318c9790d184"/>
+		<PEFILEMD5 value="c441b951553dddd23ab2318c9790d184"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="6010f5ed499a264354a33e7c17f800d8"/>
+		<ZIPSIZE value="3951"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.172
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.170
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.172"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00180.vdf"/>
+		<FILEMD5 value="35fb12b7d3e0c1d5a35cde650af72af6"/>
+		<PEFILEMD5 value="35fb12b7d3e0c1d5a35cde650af72af6"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="9747fd811d728fac494dcd9d7900a38e"/>
+		<ZIPSIZE value="3858"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.174
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.172
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.174"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00181.vdf"/>
+		<FILEMD5 value="f33fc9205ac6e53e93a435bf187e7bb6"/>
+		<PEFILEMD5 value="f33fc9205ac6e53e93a435bf187e7bb6"/>
+		<FILESIZE value="4456"/>
+		<ZIPMD5 value="0a1fe2bdf6552710c0336e74e6730c21"/>
+		<ZIPSIZE value="4425"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.176
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.174
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.176"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00182.vdf"/>
+		<FILEMD5 value="831bb4d6c728f5e4d4ffdcfc536b2a04"/>
+		<PEFILEMD5 value="831bb4d6c728f5e4d4ffdcfc536b2a04"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="e672dc84b86d568b6126fe13ae1c9415"/>
+		<ZIPSIZE value="3960"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.178
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.176
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.178"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00183.vdf"/>
+		<FILEMD5 value="401a9e180c3970f0e4c4eeacd2b77487"/>
+		<PEFILEMD5 value="401a9e180c3970f0e4c4eeacd2b77487"/>
+		<FILESIZE value="4456"/>
+		<ZIPMD5 value="6816a9b09ca7d6eac23ee227024506cc"/>
+		<ZIPSIZE value="4381"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.180
+		</VdfVersion>
+		<VdfDate>
+			20201017_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.178
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.180"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00184.vdf"/>
+		<FILEMD5 value="81c82895f3f78127fc9b256e2642ada5"/>
+		<PEFILEMD5 value="81c82895f3f78127fc9b256e2642ada5"/>
+		<FILESIZE value="8040"/>
+		<ZIPMD5 value="461b228242cc8bc032b0f81baffade6b"/>
+		<ZIPSIZE value="8041"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.182
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.180
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.182"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00185.vdf"/>
+		<FILEMD5 value="b84936b48dc895ac8deb576ca6661baa"/>
+		<PEFILEMD5 value="b84936b48dc895ac8deb576ca6661baa"/>
+		<FILESIZE value="87400"/>
+		<ZIPMD5 value="df32ad82bba370e88ab9ca15810c00b1"/>
+		<ZIPSIZE value="87483"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.184
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.182
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.184"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00186.vdf"/>
+		<FILEMD5 value="15172b903d96fe7e11b25d31c28a1b88"/>
+		<PEFILEMD5 value="15172b903d96fe7e11b25d31c28a1b88"/>
+		<FILESIZE value="17256"/>
+		<ZIPMD5 value="b4be1d9a5d5ff8dc6be25ecf55beef8f"/>
+		<ZIPSIZE value="17258"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.186
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.184
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.186"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00187.vdf"/>
+		<FILEMD5 value="35b83d951d85a822342b2aaa81abc470"/>
+		<PEFILEMD5 value="35b83d951d85a822342b2aaa81abc470"/>
+		<FILESIZE value="22888"/>
+		<ZIPMD5 value="d68101a7fd894bc56b98237b9f7d4c5e"/>
+		<ZIPSIZE value="22924"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.188
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.186
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.188"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00188.vdf"/>
+		<FILEMD5 value="80a857834c677315cdca51cf5a80fd83"/>
+		<PEFILEMD5 value="80a857834c677315cdca51cf5a80fd83"/>
+		<FILESIZE value="9576"/>
+		<ZIPMD5 value="51c3dcf06307a852120d603a8a175545"/>
+		<ZIPSIZE value="9592"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.196
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.188
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.196"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00189.vdf"/>
+		<FILEMD5 value="0acdeda6987a8611c91bdfe5ae35f5a4"/>
+		<PEFILEMD5 value="0acdeda6987a8611c91bdfe5ae35f5a4"/>
+		<FILESIZE value="4456"/>
+		<ZIPMD5 value="b526038b4312fc79e9613f75bdb92d2f"/>
+		<ZIPSIZE value="4403"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.198
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.196
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.198"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00190.vdf"/>
+		<FILEMD5 value="bd51cff7a8f44a2eca8c3e503791e22b"/>
+		<PEFILEMD5 value="bd51cff7a8f44a2eca8c3e503791e22b"/>
+		<FILESIZE value="3432"/>
+		<ZIPMD5 value="eae0b8c5920322ff77012db62cf99f91"/>
+		<ZIPSIZE value="3371"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.200
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.198
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.200"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00191.vdf"/>
+		<FILEMD5 value="a2e1af41b8793725983ca3dc0bc038de"/>
+		<PEFILEMD5 value="a2e1af41b8793725983ca3dc0bc038de"/>
+		<FILESIZE value="4456"/>
+		<ZIPMD5 value="38b3343cb873aca05f76db71886136bd"/>
+		<ZIPSIZE value="4466"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.202
+		</VdfVersion>
+		<VdfDate>
+			20201018_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.200
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.202"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00192.vdf"/>
+		<FILEMD5 value="e4afe463f0428c544f9568256f258048"/>
+		<PEFILEMD5 value="e4afe463f0428c544f9568256f258048"/>
+		<FILESIZE value="18280"/>
+		<ZIPMD5 value="aad4f170a5e876b753affd811ddd5fdc"/>
+		<ZIPSIZE value="18300"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.204
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.202
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.204"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00193.vdf"/>
+		<FILEMD5 value="2b3de5c2505b398271fe9476a73fe1e2"/>
+		<PEFILEMD5 value="2b3de5c2505b398271fe9476a73fe1e2"/>
+		<FILESIZE value="45416"/>
+		<ZIPMD5 value="6f34f7d64447df621189d5766f67b347"/>
+		<ZIPSIZE value="45484"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.206
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.204
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.206"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00194.vdf"/>
+		<FILEMD5 value="a3233f4ba610cfee1ba7523dc8b3b947"/>
+		<PEFILEMD5 value="a3233f4ba610cfee1ba7523dc8b3b947"/>
+		<FILESIZE value="47464"/>
+		<ZIPMD5 value="17a2be96d0b0bde9eeffc7755342ff7b"/>
+		<ZIPSIZE value="47488"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.208
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.206
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.208"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00195.vdf"/>
+		<FILEMD5 value="de0ad82b6c712a3c8f4baf4d3031e6c4"/>
+		<PEFILEMD5 value="de0ad82b6c712a3c8f4baf4d3031e6c4"/>
+		<FILESIZE value="66408"/>
+		<ZIPMD5 value="108b06825e02060e22f68c2622624f8f"/>
+		<ZIPSIZE value="66454"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.212
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.208
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.212"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00196.vdf"/>
+		<FILEMD5 value="bfe5497011e66115a7faef00e2f8aa75"/>
+		<PEFILEMD5 value="bfe5497011e66115a7faef00e2f8aa75"/>
+		<FILESIZE value="20328"/>
+		<ZIPMD5 value="a42c9579a7b40b1a0c12727b82f2a3e5"/>
+		<ZIPSIZE value="20390"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.214
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.212
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.214"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00197.vdf"/>
+		<FILEMD5 value="143be27024aefee635c3d685f673f767"/>
+		<PEFILEMD5 value="143be27024aefee635c3d685f673f767"/>
+		<FILESIZE value="29032"/>
+		<ZIPMD5 value="aef040a3bed718719abcaa9dd43f0466"/>
+		<ZIPSIZE value="29093"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.216
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.214
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.216"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00198.vdf"/>
+		<FILEMD5 value="d1a67126bd02e6b7b8ebf67eb5651cfc"/>
+		<PEFILEMD5 value="d1a67126bd02e6b7b8ebf67eb5651cfc"/>
+		<FILESIZE value="29544"/>
+		<ZIPMD5 value="b360bf85a82caac011d5a738a332f751"/>
+		<ZIPSIZE value="29547"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.218
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.216
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.218"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00199.vdf"/>
+		<FILEMD5 value="8b7123606175676093c96f894fd2a8c8"/>
+		<PEFILEMD5 value="8b7123606175676093c96f894fd2a8c8"/>
+		<FILESIZE value="19816"/>
+		<ZIPMD5 value="d1dfc4e48047f613a7fd660d518dc495"/>
+		<ZIPSIZE value="19872"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.220
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.218
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.220"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00200.vdf"/>
+		<FILEMD5 value="e81ef56523d21d8b87e02b6743e6ae7d"/>
+		<PEFILEMD5 value="e81ef56523d21d8b87e02b6743e6ae7d"/>
+		<FILESIZE value="13160"/>
+		<ZIPMD5 value="e355a55f7d05a31645b7b034ae32a330"/>
+		<ZIPSIZE value="13165"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.222
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.220
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.222"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00201.vdf"/>
+		<FILEMD5 value="41feda30426675ed2fff585b8d08da1b"/>
+		<PEFILEMD5 value="41feda30426675ed2fff585b8d08da1b"/>
+		<FILESIZE value="33640"/>
+		<ZIPMD5 value="70b7c9a86cb714ee6e3758df25aa5cab"/>
+		<ZIPSIZE value="33673"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.224
+		</VdfVersion>
+		<VdfDate>
+			20201019_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.222
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.224"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00202.vdf"/>
+		<FILEMD5 value="f738929cb67e286c418a2bb1b99b984a"/>
+		<PEFILEMD5 value="f738929cb67e286c418a2bb1b99b984a"/>
+		<FILESIZE value="31080"/>
+		<ZIPMD5 value="ec689e5d4d795cbff125750c4b96a2e5"/>
+		<ZIPSIZE value="31087"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.226
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.224
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.226"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00203.vdf"/>
+		<FILEMD5 value="1c1d51bb8827df9041bdb4f53598a8b1"/>
+		<PEFILEMD5 value="1c1d51bb8827df9041bdb4f53598a8b1"/>
+		<FILESIZE value="35176"/>
+		<ZIPMD5 value="6bff9880cce0bf2542beac120b2535d6"/>
+		<ZIPSIZE value="35200"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.228
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.226
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.228"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00204.vdf"/>
+		<FILEMD5 value="4f8723eb87d7952f101e25c59465ec81"/>
+		<PEFILEMD5 value="4f8723eb87d7952f101e25c59465ec81"/>
+		<FILESIZE value="16232"/>
+		<ZIPMD5 value="b97d86b97c97b87fd445b4a19a66591e"/>
+		<ZIPSIZE value="16276"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.230
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.228
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.230"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00205.vdf"/>
+		<FILEMD5 value="792c0a5ae2ba71fd418921d65587fcf6"/>
+		<PEFILEMD5 value="792c0a5ae2ba71fd418921d65587fcf6"/>
+		<FILESIZE value="21864"/>
+		<ZIPMD5 value="f199a8063ab2c17c5519deb109047687"/>
+		<ZIPSIZE value="21874"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.232
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.230
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.232"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00206.vdf"/>
+		<FILEMD5 value="93345237f42deb1bb4bd9472ac032343"/>
+		<PEFILEMD5 value="93345237f42deb1bb4bd9472ac032343"/>
+		<FILESIZE value="23912"/>
+		<ZIPMD5 value="897e14cf84fd92514e65b4d5dd1d9c32"/>
+		<ZIPSIZE value="23990"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.234
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.232
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.234"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00207.vdf"/>
+		<FILEMD5 value="d4bfea221bd875ac0948e7a55cef9190"/>
+		<PEFILEMD5 value="d4bfea221bd875ac0948e7a55cef9190"/>
+		<FILESIZE value="16744"/>
+		<ZIPMD5 value="5397cdb9462af93918da8954b6fbde9f"/>
+		<ZIPSIZE value="16773"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.236
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.234
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.236"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00208.vdf"/>
+		<FILEMD5 value="2a0bb8d892aff005c7e33b46dbf56d25"/>
+		<PEFILEMD5 value="2a0bb8d892aff005c7e33b46dbf56d25"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="dd9c0f1a67f814b436a8ae6eeffe6b0f"/>
+		<ZIPSIZE value="3871"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.238
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.236
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.238"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00209.vdf"/>
+		<FILEMD5 value="0243a7cbf313200cdee601d51c3bb7d8"/>
+		<PEFILEMD5 value="0243a7cbf313200cdee601d51c3bb7d8"/>
+		<FILESIZE value="32616"/>
+		<ZIPMD5 value="bbaaf08fa1af5583dd20e9a720cb5f24"/>
+		<ZIPSIZE value="32659"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.240
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.238
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.240"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00210.vdf"/>
+		<FILEMD5 value="d3f711716b9373ee17ab89f60f296ae5"/>
+		<PEFILEMD5 value="d3f711716b9373ee17ab89f60f296ae5"/>
+		<FILESIZE value="3432"/>
+		<ZIPMD5 value="661561eb842ea9e24955dde0de7e873e"/>
+		<ZIPSIZE value="3401"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.242
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.240
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.242"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00211.vdf"/>
+		<FILEMD5 value="6fae67b05588705c9fefe97b28389167"/>
+		<PEFILEMD5 value="6fae67b05588705c9fefe97b28389167"/>
+		<FILESIZE value="7016"/>
+		<ZIPMD5 value="1d7d47aa0d08d2e3a9d19ce9559f6dcf"/>
+		<ZIPSIZE value="7012"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.244
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.242
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.244"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00212.vdf"/>
+		<FILEMD5 value="4cb37e8b1d2b47cf7f12eb0975cf1394"/>
+		<PEFILEMD5 value="4cb37e8b1d2b47cf7f12eb0975cf1394"/>
+		<FILESIZE value="15720"/>
+		<ZIPMD5 value="40b3fa11da8b64cd3b2cf3e549831c30"/>
+		<ZIPSIZE value="15735"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.246
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.244
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.246"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00213.vdf"/>
+		<FILEMD5 value="e97c413eb146f095aa33f233feefdcae"/>
+		<PEFILEMD5 value="e97c413eb146f095aa33f233feefdcae"/>
+		<FILESIZE value="20328"/>
+		<ZIPMD5 value="d9f67d9b2f0e7008898e21068b5557af"/>
+		<ZIPSIZE value="20391"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.248
+		</VdfVersion>
+		<VdfDate>
+			20201020_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.246
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.248"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00214.vdf"/>
+		<FILEMD5 value="86273e801b3fbd4c09e43dbd44cfab8a"/>
+		<PEFILEMD5 value="86273e801b3fbd4c09e43dbd44cfab8a"/>
+		<FILESIZE value="19304"/>
+		<ZIPMD5 value="90c5cc59cb548d54d3db6b3fe3fbceef"/>
+		<ZIPSIZE value="19380"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.250
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.248
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.250"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00215.vdf"/>
+		<FILEMD5 value="7e71824ecfa158ed6fa8f6a3ce493a10"/>
+		<PEFILEMD5 value="7e71824ecfa158ed6fa8f6a3ce493a10"/>
+		<FILESIZE value="17768"/>
+		<ZIPMD5 value="b52daa6034806374adc51f65153a8290"/>
+		<ZIPSIZE value="17840"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.252
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.250
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.252"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00216.vdf"/>
+		<FILEMD5 value="30db04fb27199d8d9dce3940476fb9f6"/>
+		<PEFILEMD5 value="30db04fb27199d8d9dce3940476fb9f6"/>
+		<FILESIZE value="12136"/>
+		<ZIPMD5 value="35e50b1eb050e59acbbccfbc130fd3f3"/>
+		<ZIPSIZE value="12142"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.254
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.252
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.254"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00217.vdf"/>
+		<FILEMD5 value="a619d657e7f92197cd169e93d2d26dce"/>
+		<PEFILEMD5 value="a619d657e7f92197cd169e93d2d26dce"/>
+		<FILESIZE value="22376"/>
+		<ZIPMD5 value="ee2b6b286f9bf4698871b564ca8d7daf"/>
+		<ZIPSIZE value="22431"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.0
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.254
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.0"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00218.vdf"/>
+		<FILEMD5 value="d334859cbfdf31344ed6da46b7d5b119"/>
+		<PEFILEMD5 value="d334859cbfdf31344ed6da46b7d5b119"/>
+		<FILESIZE value="18280"/>
+		<ZIPMD5 value="524d8340e52a3dff7b278a5928ea7dae"/>
+		<ZIPSIZE value="18359"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.2
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.0
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.2"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00219.vdf"/>
+		<FILEMD5 value="d5d35f340a430dc4b1915e0972b79d82"/>
+		<PEFILEMD5 value="d5d35f340a430dc4b1915e0972b79d82"/>
+		<FILESIZE value="17256"/>
+		<ZIPMD5 value="54374a3369606d12fa792b7930713966"/>
+		<ZIPSIZE value="17240"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.4
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.2
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.4"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00220.vdf"/>
+		<FILEMD5 value="1c75f9360a243a5fa5dd850cef842ae6"/>
+		<PEFILEMD5 value="1c75f9360a243a5fa5dd850cef842ae6"/>
+		<FILESIZE value="9576"/>
+		<ZIPMD5 value="c57b4bcf80050f8af7b0bc7ddc0e93f5"/>
+		<ZIPSIZE value="9537"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.6
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.4
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.6"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00221.vdf"/>
+		<FILEMD5 value="d54a4bb8438244a6eb471a218e784527"/>
+		<PEFILEMD5 value="d54a4bb8438244a6eb471a218e784527"/>
+		<FILESIZE value="3944"/>
+		<ZIPMD5 value="0f4ad0536ec7e73f837bf161ba039d0d"/>
+		<ZIPSIZE value="3915"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.8
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.6
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.8"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00222.vdf"/>
+		<FILEMD5 value="cccb34a0a8b009c3a421f670c5992aec"/>
+		<PEFILEMD5 value="cccb34a0a8b009c3a421f670c5992aec"/>
+		<FILESIZE value="9576"/>
+		<ZIPMD5 value="18455d76966fcc381f3270289389a62e"/>
+		<ZIPSIZE value="9529"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.10
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.8
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.10"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00223.vdf"/>
+		<FILEMD5 value="fb2b2acdaa82db6fd07ed0c7a2af87ae"/>
+		<PEFILEMD5 value="fb2b2acdaa82db6fd07ed0c7a2af87ae"/>
+		<FILESIZE value="12136"/>
+		<ZIPMD5 value="d93395fa829e1ec1749f871e0f658ce1"/>
+		<ZIPSIZE value="12175"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.12
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.10
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.12"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00224.vdf"/>
+		<FILEMD5 value="476907c2a33848b96aacec9cc7493771"/>
+		<PEFILEMD5 value="476907c2a33848b96aacec9cc7493771"/>
+		<FILESIZE value="16232"/>
+		<ZIPMD5 value="c691b5bbe465acafef089d5b2156fc7f"/>
+		<ZIPSIZE value="16216"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.14
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.12
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.14"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00225.vdf"/>
+		<FILEMD5 value="238f48c202527850424c4504faa0f1f1"/>
+		<PEFILEMD5 value="238f48c202527850424c4504faa0f1f1"/>
+		<FILESIZE value="12136"/>
+		<ZIPMD5 value="567b5e06f1a5e25ea281358bea50a0f7"/>
+		<ZIPSIZE value="12138"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.16
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.14
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.16"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00226.vdf"/>
+		<FILEMD5 value="2c0a229cb7f19ccc7a35d13d5fe9add3"/>
+		<PEFILEMD5 value="2c0a229cb7f19ccc7a35d13d5fe9add3"/>
+		<FILESIZE value="24936"/>
+		<ZIPMD5 value="edc3627ecad91ce589ea78bc132a612a"/>
+		<ZIPSIZE value="24941"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.18
+		</VdfVersion>
+		<VdfDate>
+			20201021_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.16
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.18"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00227.vdf"/>
+		<FILEMD5 value="e798f6925a438357d3b1176aa9559046"/>
+		<PEFILEMD5 value="e798f6925a438357d3b1176aa9559046"/>
+		<FILESIZE value="23400"/>
+		<ZIPMD5 value="f0e584f479d83468ecccb13f7e46b190"/>
+		<ZIPSIZE value="23468"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.20
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.18
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.20"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00228.vdf"/>
+		<FILEMD5 value="0caeda0f0999aee348a532b93b10dd78"/>
+		<PEFILEMD5 value="0caeda0f0999aee348a532b93b10dd78"/>
+		<FILESIZE value="44392"/>
+		<ZIPMD5 value="b443998182f90334a3e7a2627b2a5acc"/>
+		<ZIPSIZE value="44479"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.22
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.20
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.22"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00229.vdf"/>
+		<FILEMD5 value="9e196c9e2d73a0b5d28cb0452d6344c5"/>
+		<PEFILEMD5 value="9e196c9e2d73a0b5d28cb0452d6344c5"/>
+		<FILESIZE value="40808"/>
+		<ZIPMD5 value="4a8f4d29be32b2dbb68ac7fd641a780e"/>
+		<ZIPSIZE value="40819"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.24
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.22
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.24"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00230.vdf"/>
+		<FILEMD5 value="e6105746147256e39e7283f0437896c7"/>
+		<PEFILEMD5 value="e6105746147256e39e7283f0437896c7"/>
+		<FILESIZE value="36712"/>
+		<ZIPMD5 value="b4e7f5bd46d3c2baff7bd62571836093"/>
+		<ZIPSIZE value="36795"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.26
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.24
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.26"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00231.vdf"/>
+		<FILEMD5 value="b075cec17f313c011936e3dd967fa9cc"/>
+		<PEFILEMD5 value="b075cec17f313c011936e3dd967fa9cc"/>
+		<FILESIZE value="41320"/>
+		<ZIPMD5 value="0f529b04cfcabed6a5a1260b74599515"/>
+		<ZIPSIZE value="41354"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.28
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.26
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.28"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00232.vdf"/>
+		<FILEMD5 value="304b5bc127d5d9e8eb404a6f5d7eea61"/>
+		<PEFILEMD5 value="304b5bc127d5d9e8eb404a6f5d7eea61"/>
+		<FILESIZE value="19304"/>
+		<ZIPMD5 value="26c71f3445d29b30d2db07b0cc18a7e3"/>
+		<ZIPSIZE value="19314"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.30
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.28
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.30"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00233.vdf"/>
+		<FILEMD5 value="76cc5f4e5e14c2e4d3fe017d713aff38"/>
+		<PEFILEMD5 value="76cc5f4e5e14c2e4d3fe017d713aff38"/>
+		<FILESIZE value="11112"/>
+		<ZIPMD5 value="320b4bc736cad86d4f9b7be951f44cec"/>
+		<ZIPSIZE value="11143"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.32
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.30
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.32"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00234.vdf"/>
+		<FILEMD5 value="d77e7ebcf326d90228637c7ae724ff26"/>
+		<PEFILEMD5 value="d77e7ebcf326d90228637c7ae724ff26"/>
+		<FILESIZE value="8552"/>
+		<ZIPMD5 value="9fd26e0273981e67c22000a343b61481"/>
+		<ZIPSIZE value="8545"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.34
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.32
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.34"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00235.vdf"/>
+		<FILEMD5 value="aad4fef898febc60702d926e460d86f1"/>
+		<PEFILEMD5 value="aad4fef898febc60702d926e460d86f1"/>
+		<FILESIZE value="11624"/>
+		<ZIPMD5 value="2e0b8a2b52fb001f4797a3bb2d8b56b7"/>
+		<ZIPSIZE value="11651"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.36
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.34
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.36"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00236.vdf"/>
+		<FILEMD5 value="bb234f04aeb9dc70b13c0767d0e90f92"/>
+		<PEFILEMD5 value="bb234f04aeb9dc70b13c0767d0e90f92"/>
+		<FILESIZE value="13160"/>
+		<ZIPMD5 value="b1ce86d8600752db01f6ba8f9ce0fce2"/>
+		<ZIPSIZE value="13148"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.38
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.36
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.38"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00237.vdf"/>
+		<FILEMD5 value="680e4a34deea7c5ba39b139bf7d64078"/>
+		<PEFILEMD5 value="680e4a34deea7c5ba39b139bf7d64078"/>
+		<FILESIZE value="7016"/>
+		<ZIPMD5 value="ae2ac19d79362404063f7347e05e02d3"/>
+		<ZIPSIZE value="7046"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.40
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.38
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.40"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00238.vdf"/>
+		<FILEMD5 value="227a4a427d28b76ca832361dba45c8a3"/>
+		<PEFILEMD5 value="227a4a427d28b76ca832361dba45c8a3"/>
+		<FILESIZE value="21352"/>
+		<ZIPMD5 value="50da473286f0d83ac63befb98de8b010"/>
+		<ZIPSIZE value="21409"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.42
+		</VdfVersion>
+		<VdfDate>
+			20201022_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.40
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.42"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00239.vdf"/>
+		<FILEMD5 value="6c6ca721f2f150ac0cffc80a485711b8"/>
+		<PEFILEMD5 value="6c6ca721f2f150ac0cffc80a485711b8"/>
+		<FILESIZE value="23400"/>
+		<ZIPMD5 value="b0a34f01697566011e1d918f6edbda0e"/>
+		<ZIPSIZE value="23411"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.44
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.42
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.44"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00240.vdf"/>
+		<FILEMD5 value="ec36e3d6664703c83ff1dab91776c6d1"/>
+		<PEFILEMD5 value="ec36e3d6664703c83ff1dab91776c6d1"/>
+		<FILESIZE value="16744"/>
+		<ZIPMD5 value="27bbbc9662f68e0127aaa1eeb9582a46"/>
+		<ZIPSIZE value="16735"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.46
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.44
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.46"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00241.vdf"/>
+		<FILEMD5 value="01b3a62832ae74f9ab9a924c22afb488"/>
+		<PEFILEMD5 value="01b3a62832ae74f9ab9a924c22afb488"/>
+		<FILESIZE value="61800"/>
+		<ZIPMD5 value="fc49748f9a68d3ce4cde3d0c663c46c4"/>
+		<ZIPSIZE value="61892"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.48
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.46
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.48"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00242.vdf"/>
+		<FILEMD5 value="b014885b982ab7827b01a7027878490d"/>
+		<PEFILEMD5 value="b014885b982ab7827b01a7027878490d"/>
+		<FILESIZE value="14184"/>
+		<ZIPMD5 value="1eab74050328ec50ba667b0c0de5d57d"/>
+		<ZIPSIZE value="14158"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.50
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.48
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.50"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00243.vdf"/>
+		<FILEMD5 value="9a4b4f0eda18ff8d21e4eb390354b545"/>
+		<PEFILEMD5 value="9a4b4f0eda18ff8d21e4eb390354b545"/>
+		<FILESIZE value="13160"/>
+		<ZIPMD5 value="c01c7535e8051edffa0d03fbf1d2f1c2"/>
+		<ZIPSIZE value="13150"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.52
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.50
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.52"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00244.vdf"/>
+		<FILEMD5 value="079e3fdb393a99601a177a6507a820dd"/>
+		<PEFILEMD5 value="079e3fdb393a99601a177a6507a820dd"/>
+		<FILESIZE value="18280"/>
+		<ZIPMD5 value="b9e6209edcd1ca0e0935718c1fa5f334"/>
+		<ZIPSIZE value="18357"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.14.54
+		</VdfVersion>
+		<VdfDate>
+			20201023_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.14.52
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.14.54"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00245.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="c34d1c21e7d8b8195c1ad73a036ed2dc"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00246.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="626e83683d31b1e21db0c19603a0c357"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00247.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e07fd176be07b4bb1ef06c09d03cd93b"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00248.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="a99a6bd1793eac1b63c79fecd93d8c72"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00249.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="287d730b5e1cbeefb99940556acfcffa"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00250.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="9edbab30a188e140a8825be21644b137"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00251.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="1cc63c9ebb1c00f6f818405ccf5cf972"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00252.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="b7da416f69a72cca4fdbbeabe35d0d82"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00253.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="504326a59517de0be8a44529406115ae"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00254.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="06bee861b359fdd7a8e77e460daf2783"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+	<FILE>
+		<NAME value="x_vdf/xbv00255.vdf"/>
+		<FILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<PEFILEMD5 value="0362350978e968c1b37bb5b72d27d27c"/>
+		<FILESIZE value="2408"/>
+		<ZIPMD5 value="e1f86b6bbe10837670f4ca2eb1ed20f4"/>
+		<ZIPSIZE value="2387"/>
+		<OS value="ALL"/>
+		<VdfVersion>
+			8.18.13.152
+		</VdfVersion>
+		<VdfDate>
+			20201016_0000
+		</VdfDate>
+		<ReqLinkVdf>
+			8.18.13.152
+		</ReqLinkVdf>
+		<ReqMinEngine>
+			7.9.4.32
+		</ReqMinEngine>
+		<VERSION value="8.18.13.152"/>
+		<ACTIONS value="50,170"/>
+	</FILE>
+</MODULE>
